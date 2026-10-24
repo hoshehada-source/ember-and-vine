@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Local editor/session settings
+.claude/
+
+# Submission bundle (duplicate of the files in this repo)
+Final ITP1.zip
